@@ -1,42 +1,42 @@
 {
    "files": [  
 {
-         "name": "VIP-TH-TRUE-DTAC-HOME-VPN",
+         "name": "TH-TRUE-DTAC-HOME-VPN-VIP",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-DTAC-HOME-VPNTH1.ovpn"
       }, 
 
       {
-         "name": "VIP1-TH-TRUE-DTAC-NOPRO",
+         "name": "TH-TRUE-DTAC-NOPRO-VIP1",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP1-TRUE-DTAC-NOPRO.ovpn"
       }, 
          
       {
-         "name": "VIP2-TH-AIS-AIS-PLAY",
+         "name": "TH-AIS-AIS-PLAY-VIP2",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP2-AIS-AIS-PLAY.ovpn"
       },    
       
       {
-         "name": "VIP2-TH-TRUE-DTAC-NOPRO",
+         "name": "TH-TRUE-DTAC-NOPRO-VIP3",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP2-TRUE-DTAC-NOPRO.ovpn"
       }, 
           
       {
-         "name": "VIP3-TH-AIS-AIS-PLAY",
+         "name": "TH-AIS-AIS-PLAY-VIP3",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP3-AIS-AIS-PLAY.ovpn"
       }, 
         
       {
-         "name": "VIP3-TH-TRUE-DTAC-NOPRO",
+         "name": "TH-TRUE-DTAC-NOPRO-VIP3",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP3-TRUE-DTAC-NOPRO.ovpn"
       }, 
             
       {
-         "name": "VIP4-TH-AIS-AIS-PLAY",
+         "name": "TH-AIS-AIS-PLAY-VIP4",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP4-AIS-AIS-PLAY.ovpn"
       }, 
       
       {
-         "name": "VIP1-TH-AIS-AIS-PLAY",
+         "name": "TH-AIS-AIS-PLAY-VIP1",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP1-AIS-AIS-PLAY.ovpn"
       },
       
@@ -291,7 +291,7 @@
       },
       
       {         
-         "name": "VIP4-TH-TRUE-DTAC-NOPRO",
+         "name": "TH-TRUE-DTAC-NOPRO-VIP4",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP4-TRUE-DTAC-NOPRO.ovpn"
       }
 

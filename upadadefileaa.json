@@ -149,6 +149,56 @@
          "name": "SG-TRUE-DTAC-NOPRO-10",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/SG-TRUE-DTAC-NOPRO-10.ovpn"
       }, 
+         
+      {
+         "name": "TH-INET-AIS-PLAY-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-01.ovpn"
+      }, 
+          
+      {
+         "name": "TH-INET-AIS-PLAY-02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-02.ovpn"
+      }, 
+      
+      {
+         "name": "TH-INET-AIS-PLAY-03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-03.ovpn"
+      }, 
+           
+      {
+         "name": "TH-INET-AIS-PLAY-04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-04.ovpn"
+      }, 
+          
+      {
+         "name": "TH-INET-AIS-PLAY-05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-05.ovpn"
+      }, 
+          
+      {
+         "name": "TH-INET-AIS-PLAY-06",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-06.ovpn"
+      },
+      
+      {
+         "name": "TH-INET-AIS-PLAY-07",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-07.ovpn"
+      },
+      
+      {
+         "name": "TH-INET-AIS-PLAY-08",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-08.ovpn"
+      },
+      
+      {
+         "name": "TH-INET-AIS-PLAY-09",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-09.ovpn"
+      },
+         
+      {
+         "name": "TH-INET-AIS-PLAY-10",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/TH-INET-AIS-PLAY-10.ovpn"
+      },
       
       {         
          "name": "VIP-AIS-AIS-PLAY-TH1",

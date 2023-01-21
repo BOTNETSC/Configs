@@ -311,6 +311,11 @@
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-IRIS-CLOUD-TRUE-DTAC-03.ovpn"
       }, 
       
+      {
+         "name": "VIP-VPN-DTAC-TRUE-SERVER1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-VPN-DTAC-TRUE-SERVER1.ovpn"
+      }, 
+      
       {         
          "name": "VIP9-TRUE-DTAC-NOPRO",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP4-TRUE-DTAC-NOPRO.ovpn"

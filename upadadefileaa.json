@@ -128,7 +128,58 @@
       {
          "name": "VIP-TH4-TRUE-DTAC-NOPRO",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/VIP-TH4-TRUE-DTAC-NOPRO.ovpn"
-      },                                     
+      },       
+                                       
+      {
+         "name": "SG-AIS-PLAY-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-01.ovpn"
+      }, 
+                                    
+      {
+         "name": "SG-AIS-PLAY-02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-02.ovpn"
+      }, 
+                                   
+      {
+         "name": "SG-AIS-PLAY-03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-03.ovpn"
+      }, 
+                                   
+      {
+         "name": "SG-AIS-PLAY-04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-04.ovpn"
+      }, 
+                                   
+      {
+         "name": "SG-AIS-PLAY-05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-05.ovpn"
+      }, 
+                                   
+      {
+         "name": "SG-AIS-PLAY-06",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-06.ovpn"
+      }, 
+                                   
+      {
+         "name": "SG-AIS-PLAY-07",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-07.ovpn"
+      }, 
+                                   
+      {
+         "name": "SG-AIS-PLAY-08",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-08.ovpn"
+      }, 
+                                   
+      {
+         "name": "SG-AIS-PLAY-09",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-09.ovpn"
+      }, 
+                                                 
+      {
+         "name": "SG-AIS-PLAY-10",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/SG-AIS-PLAY-10.ovpn"
+      }, 
+          
       {         
          "name": "VIP-TRUE-DTAC-SERVERHOME2",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-DTAC-SERVERHOME2.ovpn"

@@ -418,14 +418,24 @@
          "name": "A-A-TH-TRUE-DTAC-NOPRO-09",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/A-A-OVH-TRUE-DTAC-NOPRO-09.ovpn"
       }, 
-                     
+           
+      {
+         "name": "VIP-DTAC-TRUE-HOMESERVER",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-TRUE-HOMESERVER.ovpn"
+      }, 
+                 
+      {
+         "name": "VIP-AIS-HOMESERVER",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-AIS-HOMESERVER.ovpn"
+      }, 
+      
       {
          "name": "A-A-TH-TRUE-DTAC-NOPRO-10",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/A-A-OVH-TRUE-DTAC-NOPRO-10.ovpn"
       }
                            
    ],
-"message":"🚀 Config version - 10 \n📆 อัพเดทประจำวันที่ - 30/01/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 11 \n📆 อัพเดทประจำวันที่ - 30/01/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 10
+   "version": 11
 }

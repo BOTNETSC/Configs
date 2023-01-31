@@ -438,11 +438,6 @@
          "name": "VIP-AIS-NOPRO-HOME-SERVER4",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-AIS-NOPRO-HOME-SERVER4.ovpn"
       },
-            
-      {
-         "name": "VIP-DTAC-TRUE-SERVER-NOPRO",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-TRUE-SERVER-NOPRO.ovpn"
-      }, 
       
       {
          "name": "VIP-DTAC-TRUE-HOMESERVER1",

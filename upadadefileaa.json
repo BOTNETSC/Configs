@@ -418,12 +418,7 @@
          "name": "A-A-TH-TRUE-DTAC-NOPRO-09",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/A-A-OVH-TRUE-DTAC-NOPRO-09.ovpn"
       }, 
-           
-      {
-         "name": "VIP-DTAC-TRUE-HOMESERVER0",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-TRUE-HOMESERVER.ovpn"
-      }, 
-                 
+                       
       {
          "name": "VIP-AIS-NOPRO-HOME-SERVER1",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-AIS-NOPRO-HOME-SERVER1.ovpn"
@@ -443,6 +438,11 @@
          "name": "VIP-AIS-NOPRO-HOME-SERVER4",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-AIS-NOPRO-HOME-SERVER4.ovpn"
       },
+            
+      {
+         "name": "VIP-DTAC-TRUE-SERVER-NOPRO",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-TRUE-SERVER-NOPRO.ovpn"
+      }, 
       
       {
          "name": "VIP-DTAC-TRUE-HOMESERVER1",

@@ -478,6 +478,11 @@
          "name": "IN-TRUE-NOPRO-7DAY",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-DTAC-TRUE-7DAY.ovpn"
       }, 
+                                
+      {
+         "name": "IN-DTAC-NOPRO-7DAY",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-DTAC-NOPRO-7DAY.ovpn"
+      }, 
       
       {
          "name": "A-A-TH-TRUE-DTAC-NOPRO-10",
@@ -485,7 +490,7 @@
       }
                            
    ],
-"message":"🚀 Config version - 23 \n📆 อัพเดทประจำวันที่ - 31/01/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 24 \n📆 อัพเดทประจำวันที่ - 31/01/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 23
+   "version": 24
 }

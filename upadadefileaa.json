@@ -418,25 +418,10 @@
          "name": "A-A-TH-TRUE-DTAC-NOPRO-09",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/updatevps/A-A-OVH-TRUE-DTAC-NOPRO-09.ovpn"
       }, 
-                       
+                                    
       {
-         "name": "VIP-AIS-NOPRO-HOME-SERVER1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-AIS-NOPRO-HOME-SERVER1.ovpn"
-      }, 
-            
-      {
-         "name": "VIP-AIS-NOPRO-HOME-SERVER2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-AIS-NOPRO-HOME-SERVER2.ovpn"
-      }, 
-                   
-      {
-         "name": "VIP-AIS-NOPRO-HOME-SERVER3",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-AIS-NOPRO-HOME-SERVER3.ovpn"
-      },
-                  
-      {
-         "name": "VIP-AIS-NOPRO-HOME-SERVER4",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-AIS-NOPRO-HOME-SERVER4.ovpn"
+         "name": "VIP-TRUE-DTAC-NOPRO-SERVERHOME-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-DTAC-NOPRO-SERVERHOME-01.ovpn"
       },
       
       {
@@ -468,12 +453,7 @@
          "name": "VIP-DTAC-TRUE-HOMESERVER6",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-TRUE-HOMESERVER6.ovpn"
       }, 
-                    
-      {
-         "name": "VIP-TRUE-DTAC-SERVERHOMX1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-DTAC-SERVERHOMX1.ovpn"
-      }, 
-                          
+                                            
       {
          "name": "IN-TRUE-NOPRO-7DAY",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-DTAC-TRUE-7DAY.ovpn"
@@ -515,7 +495,7 @@
       }
                            
    ],
-"message":"🚀 Config version - 27 \n📆 อัพเดทประจำวันที่ - 1/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 28 \n📆 อัพเดทประจำวันที่ - 1/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 27
+   "version": 28
 }

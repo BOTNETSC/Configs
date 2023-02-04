@@ -488,6 +488,16 @@
          "name": "VIP-IN-AIS-NOPRO-7DAY",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-IN-AIS-NOPRO-7DAY.ovpn"
       }, 
+           
+      {
+         "name": "IN-TRUE-IG-FB-LINE-TW-7DAY",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-TRUE-IG-FB-LINE-TW-7DAY.ovpn"
+      }, 
+                 
+      {
+         "name": "SG-TRUE-IG-FB-LINE-TW-7DAY",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/SG-TRUE-IG-FB-LINE-TW-7DAY.ovpn"
+      }, 
       
       {
          "name": "A-A-TH-TRUE-DTAC-NOPRO-10",
@@ -495,7 +505,7 @@
       }
                            
    ],
-"message":"🚀 Config version - 29 \n📆 อัพเดทประจำวันที่ - 1/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 1.1 \n📆 อัพเดทประจำวันที่ - 1/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 29
+   "version": 30
 }

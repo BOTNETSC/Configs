@@ -209,17 +209,7 @@
       {
          "name": "VIP-TH3-TRUE-DTAC-NOPRO",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-TH3-TRUE-DTAC-NOPRO.ovpn"
-      },   
-
-      {
-         "name": "VIP-ZCOM-AIS-PLAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-ZCOM-AIS-PLAY.ovpn"
-      },   
-
-      {
-         "name": "VIP-ZCOM-TRUE-DTAC-NOPRO",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-ZCOM-TRUE-DTAC-NOPRO.ovpn"
-      },   
+      },    
 
       {
          "name": "IN-DTAC-NOPRO-7DAY-1",
@@ -299,5 +289,5 @@
    ],
 "message":"🚀 Config version - 1.2 \n📆 อัพเดทประจำวันที่ - 05/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 31
+   "version": 32
 }

@@ -280,6 +280,21 @@
          "name": "VIP-TRUE-DTAC-NOPRO-ZECOM",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-DTAC-NOPRO-ZECOM.ovpn"
       },  
+           
+      {
+         "name": "VIP-TRUE-NOPRO-SEVERHOMEX1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-NOPRO-SEVERHOMEX1.ovpn"
+      },  
+
+      {
+         "name": "VIP-TRUE-ALLPRO-SEVERHOMEX1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-ALLPRO-SEVERHOMEX1.ovpn"
+      },  
+
+      {
+         "name": "VIP-TRUE-FACEBOOK-SEVERHOMEX1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-FACEBOOK-SEVERHOMEX1.ovpn"
+      },  
       
       {
          "name": "VIP-IN-AIS-NOPRO-7DAY",
@@ -289,5 +304,5 @@
    ],
 "message":"🚀 Config version - 1.6 \n📆 อัพเดทประจำวันที่ - 06/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 37
+   "version": 38
 }

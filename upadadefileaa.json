@@ -310,68 +310,15 @@
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-DTAC-NOPRO-ZECOM.ovpn"
       },  
            
-      {
-         "name": "VIP-TRUE-NOPRO-SEVERHOMEX1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-NOPRO-SEVERHOMEX1.ovpn"
-      },  
-
-      {
-         "name": "VIP-TRUE-ALLPRO-SEVERHOMEX1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-ALLPRO-SEVERHOMEX1.ovpn"
-      },  
-
-      {
-         "name": "VIP-TRUE-ALLPRO-SEVERHOMEX2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-ALLPRO-SEVERHOMEX2.ovpn"
-      },  
-     
-      {
-         "name": "VIP-TRUE-FACEBOOK-SEVERHOMEX2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-FACEBOOK-SEVERHOMEX2.ovpn"
-      },      
-      {
-         "name": "VIP-TRUE-FACEBOOK-SEVERHOMEX2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-FACEBOOK-SEVERHOMEX2.ovpn"
-      },  
-           
-      {
-         "name": "VIP-TRUE-FACEBOOK-SEVERHOMEX2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-FACEBOOK-SEVERHOMEX2.ovpn"
-      },  
       
       {
-         "name": "VIP-TRUE-NOPRO-SEVERHOMEX2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-NOPRO-SEVERHOMEX2.ovpn"
-      },
-            
-      {
-         "name": "VIP-TRUE-ALLPRO-SEVERHOMEX3",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-ALLPRO-SEVERHOMEX3.ovpn"
-      },
-           
-      {
-         "name": "VIP-TRUE-FACEBOOK-SEVERHOMEX3",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-FACEBOOK-SEVERHOMEX3.ovpn"
+         "name": "VIP-DTAC-SERVER-ZCOM1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-SERVER-ZCOM1.ovpn"
       },
                  
       {
-         "name": "VIP-TRUE-NOPRO-SEVERHOMEX3",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-NOPRO-SEVERHOMEX3.ovpn"
-      },
-         
-      {
-         "name": "VIP-DTAC-NOPRO-SEVERHOMEX1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-NOPRO-SEVERHOMEX1.ovpn"
-      },
-           
-      {
-         "name": "VIP-DTAC-NOPRO-SEVERHOMEX2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-NOPRO-SEVERHOMEX2.ovpn"
-      },
-                 
-      {
-         "name": "VIP-DTAC-NOPRO-SEVERHOMEX3",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-NOPRO-SEVERHOMEX3.ovpn"
+         "name": "VIP-TRUE-SERVER-ZCOM1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-SERVER-ZCOM1.ovpn"
       },
       
       {
@@ -380,7 +327,7 @@
       }  
                            
    ],
-"message":"🚀 Config version - 1.7 \n📆 อัพเดทประจำวันที่ - 10/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 1.8 \n📆 อัพเดทประจำวันที่ - 10/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 40
+   "version": 41
 }

@@ -214,37 +214,7 @@
       {
          "name": "IN-DTAC-NOPRO-7DAY-1",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-DTAC-NOPRO-7DAY-1.ovpn"
-      },  
- 
-      {
-         "name": "IN-DTAC-NOPRO-7DAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-DTAC-NOPRO-7DAY.ovpn"
-      },  
- 
-      {
-         "name": "IN-TRUE-IG-FB-LINE-TW-7DAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-TRUE-IG-FB-LINE-TW-7DAY.ovpn"
-      },  
- 
-      {
-         "name": "IN-TRUE-NOPRO-7DAY-1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-TRUE-NOPRO-7DAY-1.ovpn"
-      },  
-
-      {
-         "name": "SG-DTAC-NOPRO-7DAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/SG-DTAC-NOPRO-7DAY.ovpn"
-      },  
-
-      {
-         "name": "SG-TRUE-IG-FB-LINE-TW-7DAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/SG-TRUE-IG-FB-LINE-TW-7DAY.ovpn"
-      },  
-
-      {
-         "name": "SG-TRUE-NOPRO-7DAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/SG-TRUE-NOPRO-7DAY.ovpn"
-      },  
+      },   
 
       {
          "name": "VIP-DTAC-TRUE-HOMESERVER1",

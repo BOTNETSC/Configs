@@ -189,15 +189,11 @@
       {
          "name": "VIP-TRUE-SERVER-ZCOM1",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-SERVER-ZCOM1.ovpn"
-      },
-      
-      {
-         "name": "VIP-DTAC-SERVER-ZCOM1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-SERVER-ZCOM1.ovpn"
-      }  
+      }
+ 
                            
    ],
-"message":"🚀 Config version - 6 \n📆 อัพเดทประจำวันที่ - 13/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 7 \n📆 อัพเดทประจำวันที่ - 13/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 6
+   "version": 7
 }

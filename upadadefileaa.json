@@ -212,11 +212,6 @@
       },    
 
       {
-         "name": "IN-DTAC-NOPRO-7DAY-1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/IN-DTAC-NOPRO-7DAY-1.ovpn"
-      },   
-
-      {
          "name": "VIP-DTAC-TRUE-HOMESERVER1",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-TRUE-HOMESERVER1.ovpn"
       },  
@@ -274,12 +269,7 @@
       {
          "name": "VIP-TRUE-SERVER-ZCOM1",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-SERVER-ZCOM1.ovpn"
-      },
-      
-      {
-         "name": "VIP-IN-AIS-NOPRO-7DAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-IN-AIS-NOPRO-7DAY.ovpn"
-      }  
+      } 
                            
    ],
 "message":"🚀 Config version - 2 \n📆 อัพเดทประจำวันที่ - 13/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",

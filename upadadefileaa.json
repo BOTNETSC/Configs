@@ -230,7 +230,57 @@
          "name": "VIP-HOMENET-TRUE-DTAC-06",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-06.ovpn"
       },
-      
+                                                                   
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-01.ovpn"
+      },
+                                                                         
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-02.ovpn"
+      },
+                                                                                     
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-03.ovpn"
+      },
+                                                                                     
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-04.ovpn"
+      },
+                                                                                
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-05.ovpn"
+      },
+                                                                              
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-06",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-06.ovpn"
+      },
+                                                                                 
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-07",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-07.ovpn"
+      },
+                                                                                
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-08",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-08.ovpn"
+      },
+                                                                                 
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-09",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-09.ovpn"
+      },
+                                                                            
+      {
+         "name": "TH-CSL-TRUE-DTAC-NOPRO-10",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-10.ovpn"
+      },
+                 
       {
          "name": "VIP-TRUE-SERVER-ZCOM1",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-SERVER-ZCOM1.ovpn"
@@ -238,7 +288,7 @@
  
                            
    ],
-"message":"🚀 Config version - 4 \n📆 อัพเดทประจำวันที่ - 13/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 5 \n📆 อัพเดทประจำวันที่ - 17/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 12
+   "version": 13
 }

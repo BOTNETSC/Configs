@@ -2,293 +2,157 @@
    "files": [  
                                      
       {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-01.ovpn"
+         "name": "FREE-AU-TRUE-DTAC-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-01.ovpn"
       }, 
-                                          
+                                                
       {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-02.ovpn"
+         "name": "FREE-AU-TRUE-DTAC-02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-02.ovpn"
       }, 
-                                          
+                                              
       {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-03.ovpn"
+         "name": "FREE-AU-TRUE-DTAC-03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-03.ovpn"
       }, 
-                                           
+                                               
       {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-04.ovpn"
+         "name": "FREE-AU-TRUE-DTAC-04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-04.ovpn"
       }, 
-                                           
+                                                   
       {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-05",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-05.ovpn"
+         "name": "FREE-AU-TRUE-DTAC-05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-05.ovpn"
       }, 
-                                           
+                                                     
       {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-06",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-06.ovpn"
-      }, 
-                                           
-      {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-07",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-07.ovpn"
-      }, 
-                                           
-      {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-08",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-08.ovpn"
-      }, 
-                                           
-      {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-09",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-09.ovpn"
-      }, 
-                                           
-      {
-         "name": "SG-OVH-TRUE-DTAC-NOPRO-10",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/SG-OVH-TRUE-DTAC-NOPRO-10.ovpn"
+         "name": "FREE-AU-TRUE-DTAC-06",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-06.ovpn"
       }, 
                                                  
       {
-         "name": "TH-BM-TRUE-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-BM-TRUE-DTAC-NOPRO-01.ovpn"
+         "name": "FREE-AU-TRUE-DTAC-07",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-07.ovpn"
+      }, 
+                                                 
+      {
+         "name": "FREE-AU-TRUE-DTAC-08",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-08.ovpn"
+      }, 
+                                                
+      {
+         "name": "FREE-AU-TRUE-DTAC-09",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-09.ovpn"
+      }, 
+                                                  
+      {
+         "name": "FREE-AU-TRUE-DTAC-10",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-10.ovpn"
+      }, 
+                                                
+      {
+         "name": "FREE-SG-TRUE-DTAC-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-01.ovpn"
+      }, 
+                                                             
+      {
+         "name": "FREE-SG-TRUE-DTAC-02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-02.ovpn"
+      }, 
+                                                            
+      {
+         "name": "FREE-SG-TRUE-DTAC-03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-03.ovpn"
+      }, 
+                                                            
+      {
+         "name": "FREE-SG-TRUE-DTAC-04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-04.ovpn"
       }, 
                                                        
       {
-         "name": "TH-BM-TRUE-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-BM-TRUE-DTAC-NOPRO-02.ovpn"
-      },
-                                                       
- {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-01.ovpn"
-      },
-                                                                   
+         "name": "FREE-SG-TRUE-DTAC-05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-05.ovpn"
+      }, 
+                                                               
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-02.ovpn"
-      },
-                                                                   
+         "name": "FREE-SG-TRUE-DTAC-06",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-06.ovpn"
+      }, 
+                                                              
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-03.ovpn"
-      },
-                                                                   
+         "name": "FREE-SG-TRUE-DTAC-07",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-07.ovpn"
+      }, 
+                                                            
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-04.ovpn"
-      },
-                                                                   
+         "name": "FREE-SG-TRUE-DTAC-08",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-08.ovpn"
+      }, 
+                                                        
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-05",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-05.ovpn"
-      },
-                                                                   
+         "name": "FREE-SG-TRUE-DTAC-09",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-09.ovpn"
+      }, 
+                                                          
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-06",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-06.ovpn"
-      },
-                                                                   
+         "name": "FREE-SG-TRUE-DTAC-10",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-10.ovpn"
+      }, 
+                                                             
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-07",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-07.ovpn"
-      },
-                                                                   
+         "name": "VIP-GAME-TRUE-DTAC-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/VIP-GAME-TRUE-DTAC-01.ovpn"
+      }, 
+                                                                            
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-08",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-08.ovpn"
-      },
-                                                                   
+         "name": "VIP-GAME-TRUE-DTAC-02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/VIP-GAME-TRUE-DTAC-02.ovpn"
+      }, 
+                                                                           
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-09",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-09.ovpn"
-      },
-                                                                   
+         "name": "VIP-SG-TRUE-DTAC-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/VIP-SG-TRUE-DTAC-01.ovpn"
+      }, 
+                                                                                    
       {
-         "name": "TH-INET-TRUE-DTAC-NOPRO-10",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-INET-TRUE-DTAC-NOPRO-10.ovpn"
-      },
-                                                                         
-      {
-         "name": "TH-READY-TRUE-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-READY-TRUE-DTAC-NOPRO-01.ovpn"
-      },
-                                                                               
-      {
-         "name": "TH-READY-TRUE-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-READY-TRUE-DTAC-NOPRO-02.ovpn"
-      },
-                                                                               
-      {
-         "name": "TH-READY-TRUE-DTAC-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-READY-TRUE-DTAC-NOPRO-03.ovpn"
-      },
-                                                                             
-      {
-         "name": "TH-READY-TRUE-DTAC-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-READY-TRUE-DTAC-NOPRO-04.ovpn"
-      },
-                                                                                 
-      {
-         "name": "TH-READY-TRUE-DTAC-NOPRO-05",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-READY-TRUE-DTAC-NOPRO-05.ovpn"
-      },
-                                                                               
-      {
-         "name": "VIP-GAME-TRUE-DTAC-NOPRO1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-GAME-TRUE-DTAC-NOPRO1.ovpn"
-      },
-                                                                                     
-      {
-         "name": "VIP-GAME-TRUE-DTAC-NOPRO2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-GAME-TRUE-DTAC-NOPRO2.ovpn"
-      },
-                                                                                           
-      {
-         "name": "VIP-GAME-TRUE-DTAC-NOPRO3",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-GAME-TRUE-DTAC-NOPRO3.ovpn"
-      },
-                                                                                                       
-      {
-         "name": "VIP-TH1-AIS-AIS-PLAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-TH1-AIS-AIS-PLAY.ovpn"
-      },
-                                                                                                
-      {
-         "name": "VIP-TH2-AIS-AIS-PLAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-TH2-AIS-AIS-PLAY.ovpn"
-      },
-                                                                                                        
-      {
-         "name": "VIP-TH3-AIS-AIS-PLAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-TH3-AIS-AIS-PLAY.ovpn"
-      },
-                                                                                                                      
-      {
-         "name": "VIP-TH3-AIS-AIS-PLAY",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-TH3-AIS-AIS-PLAY.ovpn"
-      },
-                                                                                                    
-      {
-         "name": "VIP-TH1-TRUE-DTAC-NOPRO",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-TH1-TRUE-DTAC-NOPRO.ovpn"
-      },
-                                                                                                          
-      {
-         "name": "VIP-TH2-TRUE-DTAC-NOPRO",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-TH2-TRUE-DTAC-NOPRO.ovpn"
-      },
-                                                                                                                
-      {
-         "name": "VIP-TH3-TRUE-DTAC-NOPRO",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/VIP-TH3-TRUE-DTAC-NOPRO.ovpn"
-      },
-                                                                                                                           
-      {
-         "name": "VIP-DTAC-SERVER-HOME-ZECOM1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-SERVER-HOME-ZECOM1.ovpn"
-      },
-                                                                                                                                 
-      {
-         "name": "VIP-TRUE-SERVER-HOME-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-SERVER-HOME-01.ovpn"
-      },
-                                                                                                                                       
-      {
-         "name": "VIP-DTAC-SERVER-HOME2",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-DTAC-SERVER-HOME2.ovpn"
-      },
-                                                                                                                                             
+         "name": "VIP-TH-TRUE-DTAC-01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/VIP-TH-TRUE-DTAC-01.ovpn"
+      }, 
+                                                                                               
       {
          "name": "VIP-HOMENET-TRUE-DTAC-01",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-01.ovpn"
-      },
-                                                                                                                                                   
+      }, 
+                                                                                                           
       {
          "name": "VIP-HOMENET-TRUE-DTAC-02",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-02.ovpn"
-      },
-                                                                                                                                                   
+      }, 
+                                                                                                             
       {
          "name": "VIP-HOMENET-TRUE-DTAC-03",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-03.ovpn"
-      },
-                                                                                                                                                   
+      }, 
+                                                                                                        
       {
          "name": "VIP-HOMENET-TRUE-DTAC-04",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-04.ovpn"
-      },
-                                                                                                                                                   
+      }, 
+                                                                                                        
       {
          "name": "VIP-HOMENET-TRUE-DTAC-05",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-05.ovpn"
-      },
-                                                                                                                                                   
+      }, 
+                                                                                                        
       {
          "name": "VIP-HOMENET-TRUE-DTAC-06",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-06.ovpn"
-      },
-                                                                   
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-01.ovpn"
-      },
-                                                                         
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-02.ovpn"
-      },
-                                                                                     
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-03.ovpn"
-      },
-                                                                                     
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-04.ovpn"
-      },
-                                                                                
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-05",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-05.ovpn"
-      },
-                                                                              
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-06",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-06.ovpn"
-      },
-                                                                                 
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-07",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-07.ovpn"
-      },
-                                                                                
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-08",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-08.ovpn"
-      },
-                                                                                 
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-09",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-09.ovpn"
-      },
-                                                                            
-      {
-         "name": "TH-CSL-TRUE-DTAC-NOPRO-10",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/update/TH-CSL-TRUE-DTAC-NOPRO-10.ovpn"
-      },
-                 
-      {
-         "name": "VIP-TRUE-SERVER-ZCOM1",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-TRUE-SERVER-ZCOM1.ovpn"
       }
- 
-                           
+         
    ],
-"message":"🚀 Config version - 5 \n📆 อัพเดทประจำวันที่ - 17/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 6 \n📆 อัพเดทประจำวันที่ - 28/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 13
+   "version": 14
 }

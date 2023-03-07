@@ -2,157 +2,252 @@
    "files": [  
                                      
       {
-         "name": "FREE-AU-TRUE-DTAC-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-01.ovpn"
+         "name": "A-HomeNet-TrueDtac01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/A-HomeNet-TrueDtac01.ovpn"
       }, 
-                                                
+                                            
       {
-         "name": "FREE-AU-TRUE-DTAC-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-02.ovpn"
-      }, 
-                                              
-      {
-         "name": "FREE-AU-TRUE-DTAC-03",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-03.ovpn"
-      }, 
+         "name": "A-HomeNet-TrueDtac02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/A-HomeNet-TrueDtac02.ovpn"
+      },                                          
                                                
       {
-         "name": "FREE-AU-TRUE-DTAC-04",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-04.ovpn"
-      }, 
-                                                   
-      {
-         "name": "FREE-AU-TRUE-DTAC-05",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-05.ovpn"
-      }, 
-                                                     
-      {
-         "name": "FREE-AU-TRUE-DTAC-06",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-06.ovpn"
-      }, 
-                                                 
-      {
-         "name": "FREE-AU-TRUE-DTAC-07",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-07.ovpn"
-      }, 
-                                                 
-      {
-         "name": "FREE-AU-TRUE-DTAC-08",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-08.ovpn"
-      }, 
-                                                
-      {
-         "name": "FREE-AU-TRUE-DTAC-09",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-09.ovpn"
-      }, 
+         "name": "Australia-TrueDtac01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Australia-TrueDtac01.ovpn"
+      },                                          
                                                   
       {
-         "name": "FREE-AU-TRUE-DTAC-10",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-AU-TRUE-DTAC-10.ovpn"
-      }, 
-                                                
+         "name": "Australia-TrueDtac02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Australia-TrueDtac02.ovpn"
+      },                                          
+                                                  
       {
-         "name": "FREE-SG-TRUE-DTAC-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-01.ovpn"
-      }, 
-                                                             
+         "name": "Australia-TrueDtac03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Australia-TrueDtac03.ovpn"
+      },                                          
+                                                  
       {
-         "name": "FREE-SG-TRUE-DTAC-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-02.ovpn"
-      }, 
-                                                            
+         "name": "Australia-TrueDtac04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Australia-TrueDtac04.ovpn"
+      },                                          
+                                                  
       {
-         "name": "FREE-SG-TRUE-DTAC-03",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-03.ovpn"
-      }, 
-                                                            
+         "name": "Australia-TrueDtac05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Australia-TrueDtac05.ovpn"
+      },                                          
+                                                  
       {
-         "name": "FREE-SG-TRUE-DTAC-04",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-04.ovpn"
-      }, 
-                                                       
+         "name": "Auto-Australia-TrueDtac1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Australia-TrueDtac1.ovpn"
+      },                                          
+                                                     
       {
-         "name": "FREE-SG-TRUE-DTAC-05",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-05.ovpn"
-      }, 
-                                                               
+         "name": "Auto-Australia-TrueDtac2",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Australia-TrueDtac2.ovpn"
+      },                                          
+                                                     
       {
-         "name": "FREE-SG-TRUE-DTAC-06",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-06.ovpn"
-      }, 
-                                                              
+         "name": "Auto-Australia-TrueDtac3",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Australia-TrueDtac3.ovpn"
+      },                                          
+                                                     
       {
-         "name": "FREE-SG-TRUE-DTAC-07",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-07.ovpn"
-      }, 
-                                                            
+         "name": "Auto-Australia-TrueDtac4",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Australia-TrueDtac4.ovpn"
+      },                                          
+                                                     
       {
-         "name": "FREE-SG-TRUE-DTAC-08",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-08.ovpn"
-      }, 
+         "name": "Auto-Australia-TrueDtac5",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Australia-TrueDtac5.ovpn"
+      },                                          
+                                                     
+      {
+         "name": "Auto-Canada-TrueDtac1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Canada-TrueDtac1.ovpn"
+      },                                          
                                                         
       {
-         "name": "FREE-SG-TRUE-DTAC-09",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-09.ovpn"
-      }, 
-                                                          
+         "name": "Auto-Canada-TrueDtac2",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Canada-TrueDtac2.ovpn"
+      },                                          
+                                                        
       {
-         "name": "FREE-SG-TRUE-DTAC-10",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/FREE-SG-TRUE-DTAC-10.ovpn"
-      }, 
-                                                             
+         "name": "Auto-Canada-TrueDtac3",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Canada-TrueDtac3.ovpn"
+      },                                          
+                                                        
       {
-         "name": "VIP-GAME-TRUE-DTAC-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/VIP-GAME-TRUE-DTAC-01.ovpn"
-      }, 
-                                                                            
+         "name": "Auto-Canada-TrueDtac4",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Canada-TrueDtac4.ovpn"
+      },                                          
+                                                        
       {
-         "name": "VIP-GAME-TRUE-DTAC-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/VIP-GAME-TRUE-DTAC-02.ovpn"
-      }, 
-                                                                           
+         "name": "Auto-Canada-TrueDtac5",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Canada-TrueDtac5.ovpn"
+      },                                          
+                                                        
       {
-         "name": "VIP-SG-TRUE-DTAC-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/VIP-SG-TRUE-DTAC-01.ovpn"
-      }, 
-                                                                                    
+         "name": "Auto-Singapore-TrueDtac1",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Singapore-TrueDtac1.ovpn"
+      },                                          
+                                                           
       {
-         "name": "VIP-TH-TRUE-DTAC-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/vpn/VIP-TH-TRUE-DTAC-01.ovpn"
-      }, 
-                                                                                               
+         "name": "Auto-Singapore-TrueDtac2",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Singapore-TrueDtac2.ovpn"
+      },                                          
+                                                           
       {
-         "name": "VIP-HOMENET-TRUE-DTAC-01",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-01.ovpn"
-      }, 
-                                                                                                           
+         "name": "Auto-Singapore-TrueDtac3",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Singapore-TrueDtac3.ovpn"
+      },                                          
+                                                           
       {
-         "name": "VIP-HOMENET-TRUE-DTAC-02",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-02.ovpn"
-      }, 
-                                                                                                             
+         "name": "Auto-Singapore-TrueDtac4",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Singapore-TrueDtac4.ovpn"
+      },                                          
+                                                           
       {
-         "name": "VIP-HOMENET-TRUE-DTAC-03",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-03.ovpn"
-      }, 
-                                                                                                        
+         "name": "Auto-Singapore-TrueDtac5",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Auto-Singapore-TrueDtac5.ovpn"
+      },                                          
+                                                           
       {
-         "name": "VIP-HOMENET-TRUE-DTAC-04",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-04.ovpn"
-      }, 
-                                                                                                        
+         "name": "Singapore-TrueDtac01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Singapore-TrueDtac01.ovpn"
+      },                                          
+                                                              
       {
-         "name": "VIP-HOMENET-TRUE-DTAC-05",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-05.ovpn"
-      }, 
-                                                                                                        
+         "name": "Singapore-TrueDtac02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Singapore-TrueDtac02.ovpn"
+      },                                          
+                                                              
       {
-         "name": "VIP-HOMENET-TRUE-DTAC-06",
-         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VIP-HOMENET-TRUE-DTAC-06.ovpn"
-      }
-         
+         "name": "Singapore-TrueDtac03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Singapore-TrueDtac03.ovpn"
+      },                                          
+                                                              
+      {
+         "name": "Singapore-TrueDtac04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Singapore-TrueDtac04.ovpn"
+      },                                          
+                                                              
+      {
+         "name": "Singapore-TrueDtac05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Singapore-TrueDtac05.ovpn"
+      },                                          
+                                                              
+      {
+         "name": "Vip-Australia-TrueDtac01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Australia-TrueDtac01.ovpn"
+      },                                          
+                                                                 
+      {
+         "name": "Vip-Australia-TrueDtac02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Australia-TrueDtac02.ovpn"
+      },                                          
+                                                                 
+      {
+         "name": "Vip-Australia-TrueDtac03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Australia-TrueDtac03.ovpn"
+      },                                          
+                                                                 
+      {
+         "name": "Vip-Australia-TrueDtac04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Australia-TrueDtac04.ovpn"
+      },                                          
+                                                                 
+      {
+         "name": "Vip-Australia-TrueDtac05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Australia-TrueDtac05.ovpn"
+      },                                          
+                                                                    
+      {
+         "name": "Vip-Gaming-TrueDtac01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Gaming-TrueDtac01.ovpn"
+      },                                          
+                                                                       
+      {
+         "name": "Vip-Gaming-TrueDtac02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Gaming-TrueDtac02.ovpn"
+      },                                          
+                                                                       
+      {
+         "name": "Vip-Gaming-TrueDtac03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Gaming-TrueDtac03.ovpn"
+      },                                          
+                                                                       
+      {
+         "name": "Vip-Gaming-TrueDtac04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Gaming-TrueDtac04.ovpn"
+      },                                          
+                                                                       
+      {
+         "name": "Vip-Gaming-TrueDtac05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Gaming-TrueDtac05.ovpn"
+      },                                          
+                                                                          
+      {
+         "name": "Vip-Singapore-TrueDtac01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Singapore-TrueDtac01.ovpn"
+      },                                          
+                                                                             
+      {
+         "name": "Vip-Singapore-TrueDtac02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Singapore-TrueDtac02.ovpn"
+      },                                          
+                                                                             
+      {
+         "name": "Vip-Singapore-TrueDtac03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Singapore-TrueDtac03.ovpn"
+      },                                          
+                                                                             
+      {
+         "name": "Vip-Singapore-TrueDtac04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Singapore-TrueDtac04.ovpn"
+      },                                          
+                                                                             
+      {
+         "name": "Vip-Singapore-TrueDtac05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Singapore-TrueDtac05.ovpn"
+      },                                          
+                                                                             
+      {
+         "name": "Vip-Singapore-TrueDtac06",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Singapore-TrueDtac06.ovpn"
+      },                                          
+                                                                             
+      {
+         "name": "Vip-Thailand-TrueDtac01",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Thailand-TrueDtac01.ovpn"
+      },                                          
+                                                                                
+      {
+         "name": "Vip-Thailand-TrueDtac02",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Thailand-TrueDtac02.ovpn"
+      },                                          
+                                                                                
+      {
+         "name": "Vip-Thailand-TrueDtac03",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Thailand-TrueDtac03.ovpn"
+      },                                          
+                                                                                
+      {
+         "name": "Vip-Thailand-TrueDtac04",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Thailand-TrueDtac04.ovpn"
+      },                                          
+                                                                                
+      {
+         "name": "Vip-Thailand-TrueDtac05",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Thailand-TrueDtac05.ovpn"
+      },                                          
+                                                                                
+      {
+         "name": "Vip-Thailand-TrueDtac06",
+         "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/Vip-Thailand-TrueDtac06.ovpn"
+      }                                    
+   
    ],
-"message":"🚀 Config version - 6 \n📆 อัพเดทประจำวันที่ - 28/02/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
+"message":"🚀 Config version - 7 \n📆 อัพเดทประจำวันที่ - 07/03/2023\n \n📌แก้ปัญหาเซิร์ฟเวอร์ดับ \n📌ยินดีต้อนรับสู่เน๊ตฟรีไม่ต้องสมัครโปร 🔥 \n• ไม่ต้องกดเพิ่มเวลา 🔥 \n• มีเซิร์ฟให้เลือกมากกว่า 90 เซิร์ฟเวอร์ \nขอให้สนุกกับเน๊ตฟรีนะครับ🙏 BOTNET VPN",
    "title":"คุณต้องการอัพเดทหรือไม่?",
-   "version": 14
+   "version": 15
 }
